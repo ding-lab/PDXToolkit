@@ -68,20 +68,15 @@ Example
 
 Output
 -------
-The list of microsatellites is output in "scan" step. The MSI scoring step produces 4 files:
+* WGS/WES data output
+        
+        *.bam
+        *.bai
 
-        output.prefix
-        output.prefix_dis_tab
-        output.prefix_germline
-        output.prefix_somatic
-
-for tumor only input, the MSI scoreing step produces 3 files: 
-
-        output.tumor.prefix
-        output.tumor.prefix_dis_tab
-        output.tumor.prefix_somatic
-
-
+* RNA-seq data output
+        
+        *.1.fastq.gz
+        *.2.fastq.gz
 
 ## Other versions
 
