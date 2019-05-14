@@ -76,7 +76,7 @@ Input
 * WGS/WES/RNA-seq
   
   ```
-  Pair fastq gzip files
+  Pair fastq gzip files (e.g. *.1.fq.gz / *.2.fq.gz)
   ```
 
 Output
