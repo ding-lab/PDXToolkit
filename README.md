@@ -149,5 +149,5 @@ NOTE:Please refer to "example.mgi.gmt.sh"
 
 Contact
 -------
-If you have any questions, please contact Hua Sun <hua.sun@wustl.edu>
+Hua Sun, <hua.sun@wustl.edu>
 
