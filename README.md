@@ -71,6 +71,13 @@ Example
      `sh pdx_disam_kit.sh -p disambiguate -n sample -d pdx_wxs_dir`
 
 
+Input
+-------
+* WGS/WES/RNA-seq
+  
+  ```
+  Pair fastq gzip files
+  ```
 
 Output
 -------
