@@ -32,7 +32,7 @@ config=${scriptDir}/config.ini
 
 while getopts "p:n:b:1:2:d:o:" opt; do
   case $opt in
-  	p)
+    p)
     	pipeline=$OPTARG
       ;;
     n)
