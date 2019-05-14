@@ -60,15 +60,15 @@ Example
    
    * Make human to bam
    
-     sh pdx_disam_kit.sh -p humanBam -n sample -1 fq1.gz -2 fq2.gz -o outdir
+     `sh pdx_disam_kit.sh -p humanBam -n sample -1 fq1.gz -2 fq2.gz -o outdir`
 
    * Make mouse to bam
    
-     sh pdx_disam_kit.sh -p mouseBam -n sample -1 fq1.gz -2 fq2.gz -o outdir
+     `sh pdx_disam_kit.sh -p mouseBam -n sample -1 fq1.gz -2 fq2.gz -o outdir`
 
    * Disambiguate
    
-     sh pdx_disam_kit.sh -p disambiguate -n sample -d pdx_wxs_dir
+     `sh pdx_disam_kit.sh -p disambiguate -n sample -d pdx_wxs_dir`
 
 
 
