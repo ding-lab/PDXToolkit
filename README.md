@@ -1,7 +1,7 @@
 
 PDXToolkit
 ===========
-PDXToolkit is a mouse reads filtering pipeline from WGS/WES and RNA-seq.
+PDXToolkit is a mouse reads filtering pipeline from WGS/WES and RNA-seq data
 
 ## Workflow
 
@@ -70,13 +70,13 @@ Output
 -------
 * WGS/WES data output
         
-        *.bam
-        *.bai
+        *.disam.reAlign.remDup.bam
+        *.disam.reAlign.remDup.bam.bai
 
 * RNA-seq data output
         
-        *.1.fastq.gz
-        *.2.fastq.gz
+        *.disam.rna-seq.1.fastq.gz
+        *.disam.rna-seq.2.fastq.gz
 
 ## Other versions
 
