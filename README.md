@@ -48,13 +48,16 @@ Example
 
 
 1. WGS/WES full step
+        
         sh pdx_disam_kit.sh -p dnaFull -n sample -1 fq1.gz -2 fq2.gz -o outdir
 
 2. RNA full step
+        
         sh pdx_disam_kit.sh -p rnaFull -n sample -1 fq1.gz -2 fq2.gz -o outdir
 
 
 3. Separate steps
+   
    * Make human to bam
      sh pdx_disam_kit.sh -p humanBam -n sample -1 fq1.gz -2 fq2.gz -o outdir
 
